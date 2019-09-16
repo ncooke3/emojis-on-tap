@@ -16,7 +16,7 @@ This is a little fun project I whipped up to practice with UITableViews, UIRefre
 
 
 
-
+[![forthebadge](http://forthebadge.com/images/badges/made-with-swift.svg)](http://forthebadge.com)	[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
 
 
