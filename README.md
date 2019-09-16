@@ -1,5 +1,5 @@
 # emojis-on-tap
-<img src="https://media.giphy.com/media/KBUqhaEIa9WuaQL0z5/giphy.gif" width="250" height="500" img align="right">
+<img src="https://media.giphy.com/media/KBUqhaEIa9WuaQL0z5/giphy.gif" width="200" height="400" img align="right">
 emojis 😍 on tap 🍻- a fun little app to practice implementing UITableView &amp; UIRefreshControl
 
 ## Hey there! Like emojis😃...and tableviews🗒️...and gradients 🌈 ❓
